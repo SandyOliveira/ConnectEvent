@@ -18,4 +18,4 @@ def test_select_event():
     
     event = event_repo.select_event(event_name)
     # print(event)
-    # print(event.nome)
+    # print(event.nome) 
